@@ -2,3 +2,5 @@
 spring:
   profiles: alpha
   message: Hello Spring MemberService Alpha Server!!!!!
+user:
+  password: '{cipher}AQASu3MCDsiN4r8CazXWO1MZFPAwH//FlSXCmzvgSwP1WoKPIe42yfMSPYTvr/sbQtf/Z9ffs3GcfFj+dOtqp/mZMLpH3ypWEfrVK3Yh4WhLRkJ7PHxUZPU1DYkoFvS9IEyFsbl5SXLrbi9nWeycM5qpN8x/ISA9nkPGEHDb54xSked1qmu5pDrH7TR3brso5EKUu68dWAKqLHpmeBXkpPYkaY7bQMcM2eefcA/xJ1hmw76SjVFD6UnaVQtv+H9rFxDsweXJDRnutqlNwGIiw31Fg/RFpQ404XybXHtfgLg1dNr+0wJtcSfPR8tp67goIuqWz30Ii/zgJSWVouFPRbI0o5P8u3weprcQh0ZuTYkMn2UDCsBkMpEPCyH+7TydxPA='
